@@ -63,6 +63,4 @@ function solve() {
 
 
 
-
-
 solveBtn.addEventListener('click',solve)
